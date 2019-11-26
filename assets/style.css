@@ -1,0 +1,21 @@
+body {
+	margin: 20px;
+}
+
+img {
+	border: 3px black solid;
+}
+
+table tr td {
+	width: 25px;
+	height: 25px;
+	border: 1px black solid;
+	background-color: white;
+}
+
+table tr td .selected {
+	width: 25px;
+	height: 25px;
+	border: 1px black solid;
+	background-color: black;
+}
